@@ -2,8 +2,7 @@
 
 ## Info
 threads and processes
-
-<img width="201" alt="Screen Shot 2021-11-20 at 9 54 09 PM" src="https://user-images.githubusercontent.com/94758944/143722228-f01e02a5-4cd7-4e02-9a25-89d28be45629.png">
+![image](https://user-images.githubusercontent.com/94758944/165584970-0381ea42-48f0-44af-8d22-2d2b9308a344.png)
 
 ## How to use
 - make
